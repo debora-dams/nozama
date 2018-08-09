@@ -9,8 +9,15 @@
 
 main{
     margin:4%;
+    background-color:#FFFFFFFF;
 }
-
+a{
+    text-decoration: none;
+}
+h8{
+    font-family: 'Play', sans-serif;
+    color: #696969;
+}
 .col-sm-6{
     margin: 1%;
 }
